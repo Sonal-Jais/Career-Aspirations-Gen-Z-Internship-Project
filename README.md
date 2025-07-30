@@ -89,3 +89,5 @@ Now, let’s frame questions for your surveys and interviews.
 These need to be clear, direct, and easy for Gen Z and employers to answer without feeling judged or bored.
 
 I’ll split them into Survey Questions (for broader reach) and Interview Questions (for deeper follow-ups). Each question ties to the variables above and avoids jargon or fluff.
+
+**These criterias are used for Survey Questions**
